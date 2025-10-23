@@ -1,0 +1,18 @@
+[phases.setup]
+nixPkgs = ['nodejs_20']
+nixpkgsArchive = 'ba913eda2df8eb72147259189d55932012df6301'
+
+[phases.install]
+dependsOn = ['setup']
+cmds = [
+  'corepack enable',
+  'corepack prepare pnpm@latest --activate',
+  'pnpm install --frozen-lockfile'
+]
+
+[phases.build]
+dependsOn = ['install']
+cmds = ['pnpm build']
+
+[start]
+cmd = 'npx serve build -l 3000 --no-port-switching'
