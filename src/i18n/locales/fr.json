@@ -1,0 +1,358 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "courses": "Formations",
+    "pricing": "Tarifs",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "moodle": "Accéder à Moodle"
+  },
+  "hero": {
+    "badge": "Formatrice spécialisée en Digital & IA",
+    "title": "Formez-vous au",
+    "titleHighlight1": "numérique",
+    "titleHighlight2": "IA",
+    "description": "Bonjour, je suis <strong>Maryline Brosset</strong>, formatrice certifiée pour enseignants. Je vous accompagne dans votre transformation digitale avec des formations pratiques et personnalisées.",
+    "ctaPrimary": "Découvrir les formations",
+    "ctaSecondary": "En savoir plus",
+    "stat1": "500+",
+    "stat1Label": "Enseignants formés",
+    "stat2": "15+",
+    "stat2Label": "Formations",
+    "stat3": "98%",
+    "stat3Label": "Satisfaction"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Passionnée par l'éducation et l'innovation, je mets mon expertise au service des enseignants pour une école du 21ème siècle.",
+    "journeyTitle": "Mon parcours",
+    "bio1": "Enseignante depuis plus de 10 ans, j'ai toujours été convaincue que le numérique et l'intelligence artificielle sont des leviers formidables pour enrichir les pratiques pédagogiques.",
+    "bio2": "En 2019, j'ai créé <strong>Owl Formation</strong> pour partager mon expertise et accompagner mes collègues enseignants dans leur montée en compétences digitales. Aujourd'hui, je forme des centaines d'enseignants chaque année aux outils numériques et à l'IA générative.",
+    "bio3": "Ma mission : rendre la technologie accessible à tous et transformer l'enseignement grâce au digital !",
+    "timelineTitle": "Mon parcours professionnel",
+    "valuesTitle": "Mes valeurs",
+    "milestones": {
+      "2010": {
+        "title": "Début dans l'enseignement",
+        "description": "Professeure des écoles, passionnée par les nouvelles pédagogies"
+      },
+      "2015": {
+        "title": "Certification numérique",
+        "description": "Formation spécialisée en outils numériques éducatifs"
+      },
+      "2019": {
+        "title": "Création d'Owl Formation",
+        "description": "Lancement de mon activité de formatrice indépendante"
+      },
+      "2023": {
+        "title": "Spécialisation IA",
+        "description": "Expert en intelligence artificielle appliquée à l'éducation"
+      }
+    },
+    "values": {
+      "proximity": {
+        "title": "Proximité",
+        "description": "Un accompagnement personnalisé et humain"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Apprendre ensemble, partager les expériences"
+      },
+      "practice": {
+        "title": "Pratique",
+        "description": "Des formations concrètes et immédiatement applicables"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Formations certifiantes et reconnues"
+      }
+    }
+  },
+  "courses": {
+    "title": "Catalogue de formations",
+    "subtitle": "Des formations pratiques et concrètes, adaptées aux besoins des enseignants du 21ème siècle.",
+    "customNote": "Besoin d'une formation sur mesure ?",
+    "customDescription": "Je conçois également des <strong>formations personnalisées</strong> adaptées aux besoins spécifiques de votre établissement.",
+    "list": {
+      "ai": {
+        "title": "Introduction à l'IA générative",
+        "description": "Découvrez ChatGPT, Midjourney et les outils d'IA pour l'enseignement",
+        "duration": "2 jours",
+        "level": "Débutant"
+      },
+      "content": {
+        "title": "IA pour la création de contenus",
+        "description": "Créez des fiches pédagogiques, exercices et évaluations avec l'IA",
+        "duration": "1 jour",
+        "level": "Intermédiaire"
+      },
+      "presentation": {
+        "title": "Outils de présentation interactifs",
+        "description": "Maîtrisez Genially, Canva et PowerPoint pour des cours captivants",
+        "duration": "1 jour",
+        "level": "Débutant"
+      },
+      "video": {
+        "title": "Création de vidéos pédagogiques",
+        "description": "Réalisez des capsules vidéo avec CapCut, Canva Video et OBS",
+        "duration": "2 jours",
+        "level": "Intermédiaire"
+      },
+      "virtual": {
+        "title": "Classes virtuelles et visioconférence",
+        "description": "Animez des sessions en ligne avec Zoom, Teams et Google Meet",
+        "duration": "0.5 jour",
+        "level": "Débutant"
+      },
+      "coding": {
+        "title": "Initiation au code pour enseignants",
+        "description": "Scratch, Blockly et Python adaptés à l'enseignement primaire/collège",
+        "duration": "2 jours",
+        "level": "Débutant"
+      },
+      "website": {
+        "title": "Créer son site web pédagogique",
+        "description": "WordPress, Google Sites et outils no-code pour enseignants",
+        "duration": "1.5 jours",
+        "level": "Débutant"
+      },
+      "security": {
+        "title": "Cybersécurité et protection des données",
+        "description": "RGPD, sécurité numérique et bonnes pratiques pour l'école",
+        "duration": "1 jour",
+        "level": "Tous niveaux"
+      },
+      "apps": {
+        "title": "Applications mobiles éducatives",
+        "description": "Sélection et utilisation d'apps pour tablettes et smartphones",
+        "duration": "1 jour",
+        "level": "Débutant"
+      },
+      "data": {
+        "title": "Gestion de données avec Excel/Sheets",
+        "description": "Tableaux croisés, formules et visualisation de données",
+        "duration": "1.5 jours",
+        "level": "Intermédiaire"
+      },
+      "design": {
+        "title": "Design graphique pour l'éducation",
+        "description": "Créez des supports visuels attractifs avec Canva et Figma",
+        "duration": "1 jour",
+        "level": "Débutant"
+      },
+      "automation": {
+        "title": "Automatisation et productivité",
+        "description": "Zapier, IFTTT et outils d'automatisation pour gagner du temps",
+        "duration": "1 jour",
+        "level": "Avancé"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Nos formules",
+    "subtitle": "Des tarifs transparents et adaptés à tous les besoins. Toutes nos formations sont éligibles au financement OPCO.",
+    "popular": "Le plus populaire",
+    "requestQuote": "Demander un devis",
+    "customTitle": "Prestations sur mesure",
+    "customSubtitle": "Vous avez des besoins spécifiques ? Je propose également :",
+    "customCta": "Contactez-moi pour un projet personnalisé",
+    "infoNote": "💡 <strong>Bon à savoir :</strong> Toutes nos formations sont certifiantes et prises en charge par les OPCO. Devis sous 48h. Paiement en plusieurs fois possible.",
+    "packages": {
+      "discovery": {
+        "name": "Formation Découverte",
+        "price": "490€",
+        "duration": "Demi-journée (3h)",
+        "description": "Idéal pour découvrir un outil ou une thématique",
+        "features": [
+          "Session de 3 heures",
+          "Jusqu'à 15 participants",
+          "Support de cours fourni",
+          "Certificat de participation",
+          "Accès Moodle 1 mois"
+        ]
+      },
+      "standard": {
+        "name": "Formation Standard",
+        "price": "890€",
+        "duration": "1 journée (6h)",
+        "description": "La formule complète pour maîtriser un sujet",
+        "features": [
+          "Session de 6 heures",
+          "Jusqu'à 15 participants",
+          "Support de cours complet",
+          "Exercices pratiques",
+          "Certificat de formation",
+          "Accès Moodle 3 mois",
+          "Suivi email 2 semaines"
+        ]
+      },
+      "premium": {
+        "name": "Formation Premium",
+        "price": "1590€",
+        "duration": "2 jours (12h)",
+        "description": "Formation approfondie avec accompagnement",
+        "features": [
+          "2 sessions de 6 heures",
+          "Jusqu'à 15 participants",
+          "Support de cours enrichi",
+          "Ateliers pratiques",
+          "Projets personnalisés",
+          "Certificat professionnel",
+          "Accès Moodle 6 mois",
+          "Suivi personnalisé 1 mois",
+          "Session de rappel offerte"
+        ]
+      }
+    },
+    "customOptions": [
+      "Formation sur mesure pour votre établissement",
+      "Accompagnement au long cours",
+      "Coaching individuel pour enseignants",
+      "Audit de vos pratiques numériques"
+    ]
+  },
+  "testimonials": {
+    "title": "Ils me font confiance",
+    "subtitle": "Découvrez les retours d'expérience des enseignants que j'ai accompagnés",
+    "satisfaction": "Taux de satisfaction",
+    "rating": "Note moyenne",
+    "recommend": "Nous recommandent",
+    "list": [
+      {
+        "name": "Sophie Durand",
+        "role": "Professeure des écoles",
+        "school": "École primaire Jean Moulin, Lyon",
+        "content": "Maryline a transformé ma façon d'enseigner ! Grâce à sa formation sur l'IA, je crée maintenant des exercices personnalisés en quelques minutes. Mes élèves sont plus engagés que jamais."
+      },
+      {
+        "name": "Pierre Martin",
+        "role": "Professeur de mathématiques",
+        "school": "Collège Victor Hugo, Paris",
+        "content": "Formation exceptionnelle sur les outils de présentation. Maryline est pédagogue, patiente et très à l'écoute. Les supports fournis sont d'une grande qualité."
+      },
+      {
+        "name": "Claire Lefebvre",
+        "role": "Directrice d'école",
+        "school": "Groupe scolaire Sainte-Marie, Bordeaux",
+        "content": "Nous avons fait appel à Owl Formation pour former toute notre équipe. Résultat : 100% de satisfaction ! Maryline s'adapte parfaitement aux différents niveaux."
+      },
+      {
+        "name": "Thomas Bernard",
+        "role": "Professeur d'histoire-géographie",
+        "school": "Lycée Pasteur, Marseille",
+        "content": "La formation sur la création de vidéos pédagogiques était exactement ce dont j'avais besoin. Maryline explique tout de manière claire et concrète. Je recommande vivement !"
+      },
+      {
+        "name": "Marie Dubois",
+        "role": "Professeure de français",
+        "school": "Collège Molière, Toulouse",
+        "content": "J'étais réticente à l'IA au départ, mais Maryline m'a ouvert les yeux sur son potentiel pédagogique. Sa formation est ludique et immédiatement applicable en classe."
+      },
+      {
+        "name": "Laurent Petit",
+        "role": "Coordinateur TICE",
+        "school": "Académie de Lille",
+        "content": "Maryline est une référence dans le domaine. Son expertise en IA et numérique éducatif est impressionnante. Formation de très haut niveau, je la recommande sans hésitation."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Une question ? Un projet de formation ? N'hésitez pas à me contacter, je vous réponds sous 24h.",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Choisissez un sujet",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet ou vos besoins...",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Une erreur est survenue. Veuillez réessayer.",
+      "subjects": {
+        "info": "Demande d'information",
+        "quote": "Demande de devis",
+        "custom": "Formation sur mesure",
+        "other": "Autre"
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Trouvez rapidement les réponses à vos questions",
+    "items": [
+      {
+        "question": "Comment financer ma formation ?",
+        "answer": "Toutes nos formations sont éligibles au financement OPCO (Opérateurs de Compétences). En tant qu'établissement scolaire ou enseignant, vous pouvez faire une demande de prise en charge auprès de votre OPCO. Je vous accompagne dans la constitution de votre dossier et fournis tous les documents nécessaires (programme détaillé, devis, attestation Qualiopi, etc.)."
+      },
+      {
+        "question": "Quels sont les prérequis techniques ?",
+        "answer": "Pour la plupart des formations, vous aurez besoin d'un ordinateur portable avec une connexion internet stable. Certaines formations spécifiques peuvent nécessiter l'installation de logiciels gratuits que je vous indiquerai en amont. Aucune compétence technique avancée n'est requise - mes formations sont conçues pour tous les niveaux."
+      },
+      {
+        "question": "Les formations sont-elles certifiantes ?",
+        "answer": "Oui ! Toutes nos formations donnent lieu à la délivrance d'un certificat de formation. Owl Formation est certifié Qualiopi, gage de qualité reconnu par l'État. Vous recevrez également une attestation de présence et un certificat de réalisation à l'issue de votre formation."
+      },
+      {
+        "question": "Proposez-vous des formations en ligne ?",
+        "answer": "Oui, je propose mes formations en trois formats : en présentiel dans votre établissement, en ligne via visioconférence (Zoom, Teams), ou en format hybride. Le format en ligne offre la même qualité pédagogique avec des sessions interactives, des ateliers pratiques et un suivi personnalisé."
+      },
+      {
+        "question": "Combien de participants par session ?",
+        "answer": "Pour garantir un accompagnement de qualité, je limite mes sessions à 15 participants maximum. Cela me permet d'offrir un suivi personnalisé à chaque participant et de répondre aux questions spécifiques de chacun. Pour des groupes plus importants, nous pouvons organiser plusieurs sessions."
+      },
+      {
+        "question": "Puis-je personnaliser le contenu d'une formation ?",
+        "answer": "Absolument ! Je propose des formations sur mesure adaptées à vos besoins spécifiques. Nous échangeons en amont pour comprendre vos objectifs, votre contexte et vos contraintes. Je conçois ensuite un programme personnalisé avec des exemples et des cas pratiques adaptés à votre réalité pédagogique."
+      },
+      {
+        "question": "Quel est le délai pour organiser une formation ?",
+        "answer": "Je peux généralement organiser une formation dans un délai de 2 à 4 semaines. Pour les demandes urgentes, n'hésitez pas à me contacter - je fais mon possible pour m'adapter à vos contraintes. Le délai peut être plus long si vous passez par un financement OPCO (comptez 4 à 6 semaines pour le traitement du dossier)."
+      },
+      {
+        "question": "Proposez-vous un suivi après la formation ?",
+        "answer": "Oui ! Toutes mes formations incluent un suivi post-formation. Selon la formule choisie, vous bénéficiez d'un accès à la plateforme Moodle (de 1 à 6 mois) avec les supports de cours, des ressources complémentaires et un forum d'entraide. Je reste également disponible par email pour répondre à vos questions."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Formatrice spécialisée en numérique et IA pour enseignants. Transformons ensemble l'école de demain.",
+    "navigation": "Navigation",
+    "popularCourses": "Formations populaires",
+    "contact": "Contact",
+    "location": "Lyon, France",
+    "locationNote": "(Interventions partout en France)",
+    "requestQuote": "Demander un devis",
+    "rights": "Owl Formation - Maryline Brosset. Tous droits réservés.",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "CGV",
+    "certifications": {
+      "qualiopi": "Certifié Qualiopi",
+      "qualiopiLabel": "🏆 Certification Qualité",
+      "datadock": "Datadock",
+      "datadockLabel": "✅ Référencé",
+      "funding": "Financement",
+      "fundingLabel": "💳 OPCO Compatible"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Aller au contenu principal",
+    "menu": "Menu",
+    "closeMenu": "Fermer le menu",
+    "pauseCarousel": "Mettre en pause le carrousel",
+    "playCarousel": "Lancer le carrousel",
+    "languageSwitcher": "Changer de langue"
+  },
+  "seo": {
+    "title": "Owl Formation - Formation Numérique & IA pour Enseignants | Maryline Brosset",
+    "description": "Formatrice certifiée spécialisée en outils numériques et intelligence artificielle pour enseignants. Formations pratiques et personnalisées. 98% de satisfaction. Financement OPCO.",
+    "keywords": "formation enseignants, formation numérique, formation IA, ChatGPT enseignement, outils numériques éducatifs, formation digitale, Qualiopi, OPCO"
+  }
+}

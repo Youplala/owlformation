@@ -1,0 +1,358 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "moodle": "Access Moodle"
+  },
+  "hero": {
+    "badge": "Digital & AI Training Specialist",
+    "title": "Train in",
+    "titleHighlight1": "digital",
+    "titleHighlight2": "AI",
+    "description": "Hello, I'm <strong>Maryline Brosset</strong>, certified trainer for teachers. I support you in your digital transformation with practical and personalized training.",
+    "ctaPrimary": "Discover our courses",
+    "ctaSecondary": "Learn more",
+    "stat1": "500+",
+    "stat1Label": "Teachers trained",
+    "stat2": "15+",
+    "stat2Label": "Courses",
+    "stat3": "98%",
+    "stat3Label": "Satisfaction"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Passionate about education and innovation, I put my expertise at the service of teachers for a 21st century school.",
+    "journeyTitle": "My journey",
+    "bio1": "A teacher for over 10 years, I have always been convinced that digital technology and artificial intelligence are tremendous levers for enriching teaching practices.",
+    "bio2": "In 2019, I created <strong>Owl Formation</strong> to share my expertise and support my fellow teachers in developing their digital skills. Today, I train hundreds of teachers each year in digital tools and generative AI.",
+    "bio3": "My mission: make technology accessible to everyone and transform teaching through digital!",
+    "timelineTitle": "My professional journey",
+    "valuesTitle": "My values",
+    "milestones": {
+      "2010": {
+        "title": "Start in teaching",
+        "description": "Elementary school teacher, passionate about new pedagogies"
+      },
+      "2015": {
+        "title": "Digital certification",
+        "description": "Specialized training in educational digital tools"
+      },
+      "2019": {
+        "title": "Creation of Owl Formation",
+        "description": "Launch of my independent training business"
+      },
+      "2023": {
+        "title": "AI specialization",
+        "description": "Expert in artificial intelligence applied to education"
+      }
+    },
+    "values": {
+      "proximity": {
+        "title": "Proximity",
+        "description": "Personalized and human support"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Learn together, share experiences"
+      },
+      "practice": {
+        "title": "Practice",
+        "description": "Concrete and immediately applicable training"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Certified and recognized training"
+      }
+    }
+  },
+  "courses": {
+    "title": "Course catalog",
+    "subtitle": "Practical and concrete training, adapted to the needs of 21st century teachers.",
+    "customNote": "Need custom training?",
+    "customDescription": "I also design <strong>personalized training</strong> adapted to the specific needs of your institution.",
+    "list": {
+      "ai": {
+        "title": "Introduction to generative AI",
+        "description": "Discover ChatGPT, Midjourney and AI tools for teaching",
+        "duration": "2 days",
+        "level": "Beginner"
+      },
+      "content": {
+        "title": "AI for content creation",
+        "description": "Create lesson plans, exercises and assessments with AI",
+        "duration": "1 day",
+        "level": "Intermediate"
+      },
+      "presentation": {
+        "title": "Interactive presentation tools",
+        "description": "Master Genially, Canva and PowerPoint for captivating lessons",
+        "duration": "1 day",
+        "level": "Beginner"
+      },
+      "video": {
+        "title": "Creating educational videos",
+        "description": "Create video capsules with CapCut, Canva Video and OBS",
+        "duration": "2 days",
+        "level": "Intermediate"
+      },
+      "virtual": {
+        "title": "Virtual classrooms and videoconferencing",
+        "description": "Host online sessions with Zoom, Teams and Google Meet",
+        "duration": "0.5 day",
+        "level": "Beginner"
+      },
+      "coding": {
+        "title": "Introduction to coding for teachers",
+        "description": "Scratch, Blockly and Python adapted to primary/middle school teaching",
+        "duration": "2 days",
+        "level": "Beginner"
+      },
+      "website": {
+        "title": "Create your educational website",
+        "description": "WordPress, Google Sites and no-code tools for teachers",
+        "duration": "1.5 days",
+        "level": "Beginner"
+      },
+      "security": {
+        "title": "Cybersecurity and data protection",
+        "description": "GDPR, digital security and best practices for schools",
+        "duration": "1 day",
+        "level": "All levels"
+      },
+      "apps": {
+        "title": "Educational mobile applications",
+        "description": "Selection and use of apps for tablets and smartphones",
+        "duration": "1 day",
+        "level": "Beginner"
+      },
+      "data": {
+        "title": "Data management with Excel/Sheets",
+        "description": "Pivot tables, formulas and data visualization",
+        "duration": "1.5 days",
+        "level": "Intermediate"
+      },
+      "design": {
+        "title": "Graphic design for education",
+        "description": "Create attractive visual materials with Canva and Figma",
+        "duration": "1 day",
+        "level": "Beginner"
+      },
+      "automation": {
+        "title": "Automation and productivity",
+        "description": "Zapier, IFTTT and automation tools to save time",
+        "duration": "1 day",
+        "level": "Advanced"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Our packages",
+    "subtitle": "Transparent pricing adapted to all needs. All our training courses are eligible for OPCO funding.",
+    "popular": "Most popular",
+    "requestQuote": "Request a quote",
+    "customTitle": "Custom services",
+    "customSubtitle": "Do you have specific needs? I also offer:",
+    "customCta": "Contact me for a personalized project",
+    "infoNote": "💡 <strong>Good to know:</strong> All our training courses are certified and covered by OPCO. Quote within 48 hours. Payment in installments possible.",
+    "packages": {
+      "discovery": {
+        "name": "Discovery Training",
+        "price": "€490",
+        "duration": "Half-day (3h)",
+        "description": "Ideal for discovering a tool or theme",
+        "features": [
+          "3-hour session",
+          "Up to 15 participants",
+          "Course materials provided",
+          "Certificate of participation",
+          "1-month Moodle access"
+        ]
+      },
+      "standard": {
+        "name": "Standard Training",
+        "price": "€890",
+        "duration": "1 day (6h)",
+        "description": "The complete package to master a subject",
+        "features": [
+          "6-hour session",
+          "Up to 15 participants",
+          "Complete course materials",
+          "Practical exercises",
+          "Training certificate",
+          "3-month Moodle access",
+          "2-week email follow-up"
+        ]
+      },
+      "premium": {
+        "name": "Premium Training",
+        "price": "€1590",
+        "duration": "2 days (12h)",
+        "description": "In-depth training with support",
+        "features": [
+          "2 sessions of 6 hours",
+          "Up to 15 participants",
+          "Enhanced course materials",
+          "Practical workshops",
+          "Personalized projects",
+          "Professional certificate",
+          "6-month Moodle access",
+          "1-month personalized follow-up",
+          "Free refresher session"
+        ]
+      }
+    },
+    "customOptions": [
+      "Custom training for your institution",
+      "Long-term support",
+      "Individual coaching for teachers",
+      "Audit of your digital practices"
+    ]
+  },
+  "testimonials": {
+    "title": "They trust me",
+    "subtitle": "Discover feedback from teachers I have supported",
+    "satisfaction": "Satisfaction rate",
+    "rating": "Average rating",
+    "recommend": "Recommend us",
+    "list": [
+      {
+        "name": "Sophie Durand",
+        "role": "Elementary school teacher",
+        "school": "Jean Moulin Primary School, Lyon",
+        "content": "Maryline transformed my way of teaching! Thanks to her AI training, I now create personalized exercises in minutes. My students are more engaged than ever."
+      },
+      {
+        "name": "Pierre Martin",
+        "role": "Mathematics teacher",
+        "school": "Victor Hugo Middle School, Paris",
+        "content": "Exceptional training on presentation tools. Maryline is pedagogical, patient and very attentive. The materials provided are of great quality."
+      },
+      {
+        "name": "Claire Lefebvre",
+        "role": "School principal",
+        "school": "Sainte-Marie School Group, Bordeaux",
+        "content": "We called on Owl Formation to train our entire team. Result: 100% satisfaction! Maryline adapts perfectly to different levels."
+      },
+      {
+        "name": "Thomas Bernard",
+        "role": "History-geography teacher",
+        "school": "Pasteur High School, Marseille",
+        "content": "The training on creating educational videos was exactly what I needed. Maryline explains everything clearly and concretely. I highly recommend!"
+      },
+      {
+        "name": "Marie Dubois",
+        "role": "French teacher",
+        "school": "Molière Middle School, Toulouse",
+        "content": "I was reluctant about AI at first, but Maryline opened my eyes to its educational potential. Her training is fun and immediately applicable in class."
+      },
+      {
+        "name": "Laurent Petit",
+        "role": "ICT Coordinator",
+        "school": "Lille Academy",
+        "content": "Maryline is a reference in the field. Her expertise in AI and educational digital is impressive. Very high level training, I recommend without hesitation."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact me",
+    "subtitle": "A question? A training project? Don't hesitate to contact me, I'll respond within 24 hours.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "subject": "Subject",
+      "subjectPlaceholder": "Choose a subject",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project or needs...",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again.",
+      "subjects": {
+        "info": "Information request",
+        "quote": "Quote request",
+        "custom": "Custom training",
+        "other": "Other"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Quickly find answers to your questions",
+    "items": [
+      {
+        "question": "How can I finance my training?",
+        "answer": "All our training courses are eligible for OPCO (Skills Operators) funding. As a school or teacher, you can apply for coverage from your OPCO. I support you in building your file and provide all necessary documents (detailed program, quote, Qualiopi certificate, etc.)."
+      },
+      {
+        "question": "What are the technical prerequisites?",
+        "answer": "For most training courses, you will need a laptop with a stable internet connection. Some specific training may require the installation of free software that I will indicate in advance. No advanced technical skills are required - my training is designed for all levels."
+      },
+      {
+        "question": "Are the training courses certified?",
+        "answer": "Yes! All our training courses result in the issuance of a training certificate. Owl Formation is Qualiopi certified, a quality guarantee recognized by the State. You will also receive a certificate of attendance and a certificate of completion at the end of your training."
+      },
+      {
+        "question": "Do you offer online training?",
+        "answer": "Yes, I offer my training in three formats: in-person at your institution, online via videoconference (Zoom, Teams), or in hybrid format. Online format offers the same pedagogical quality with interactive sessions, practical workshops and personalized follow-up."
+      },
+      {
+        "question": "How many participants per session?",
+        "answer": "To guarantee quality support, I limit my sessions to a maximum of 15 participants. This allows me to offer personalized follow-up to each participant and answer everyone's specific questions. For larger groups, we can organize multiple sessions."
+      },
+      {
+        "question": "Can I customize the content of a training?",
+        "answer": "Absolutely! I offer custom training adapted to your specific needs. We discuss beforehand to understand your objectives, context and constraints. I then design a personalized program with examples and practical cases adapted to your teaching reality."
+      },
+      {
+        "question": "What is the lead time to organize training?",
+        "answer": "I can generally organize training within 2 to 4 weeks. For urgent requests, don't hesitate to contact me - I do my best to adapt to your constraints. The deadline may be longer if you go through OPCO funding (allow 4 to 6 weeks for file processing)."
+      },
+      {
+        "question": "Do you offer follow-up after training?",
+        "answer": "Yes! All my training includes post-training follow-up. Depending on the package chosen, you benefit from access to the Moodle platform (from 1 to 6 months) with course materials, additional resources and a help forum. I also remain available by email to answer your questions."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Digital and AI training specialist for teachers. Let's transform tomorrow's school together.",
+    "navigation": "Navigation",
+    "popularCourses": "Popular courses",
+    "contact": "Contact",
+    "location": "Lyon, France",
+    "locationNote": "(Interventions throughout France)",
+    "requestQuote": "Request a quote",
+    "rights": "Owl Formation - Maryline Brosset. All rights reserved.",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "terms": "Terms of sale",
+    "certifications": {
+      "qualiopi": "Qualiopi Certified",
+      "qualiopiLabel": "🏆 Quality Certification",
+      "datadock": "Datadock",
+      "datadockLabel": "✅ Referenced",
+      "funding": "Funding",
+      "fundingLabel": "💳 OPCO Compatible"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "pauseCarousel": "Pause carousel",
+    "playCarousel": "Play carousel",
+    "languageSwitcher": "Change language"
+  },
+  "seo": {
+    "title": "Owl Formation - Digital & AI Training for Teachers | Maryline Brosset",
+    "description": "Certified trainer specialized in digital tools and artificial intelligence for teachers. Practical and personalized training. 98% satisfaction. OPCO funding.",
+    "keywords": "teacher training, digital training, AI training, ChatGPT teaching, educational digital tools, digital training, Qualiopi, OPCO"
+  }
+}
